@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# AI model files
+*.pt
+*.pth
+
+# Generated files
+outputs/
+*.log
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
