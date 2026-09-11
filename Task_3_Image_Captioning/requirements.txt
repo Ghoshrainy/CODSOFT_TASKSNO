@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+torchvision
+Pillow
+opencv-python
+ultralytics
+numpy
+requests
