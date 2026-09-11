@@ -15,6 +15,16 @@ The AI uses the **Minimax algorithm** to evaluate possible moves and choose the 
 - Replay option
 - Command-line interface
 
+## How It Works
+
+1. The game board is displayed to the player.
+2. The human player selects an empty position.
+3. The AI checks the possible moves using the Minimax algorithm.
+4. The AI chooses the best available move.
+5. The game checks for a win or draw after each move.
+6. The game continues until a player wins or the match ends in a draw.
+7. The final score is displayed, and the player can choose to replay.
+
 ## AI Algorithm
 
 The AI uses the **Minimax algorithm**.
